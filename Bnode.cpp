@@ -5,7 +5,7 @@
  *      Author: Administrator
  */
 
-#include "E:Bnode.h"
+#include "Bnode.h"
 
 Bnode::Bnode() {
 	// TODO Auto-generated constructor stub
